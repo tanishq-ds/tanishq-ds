@@ -53,7 +53,7 @@ Making the machines learn (yes… exactly what it sounds like 😙)
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="mailto:your-tanishqverma4444@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
 </a>

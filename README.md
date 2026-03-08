@@ -1,23 +1,23 @@
-# Hi there, I'm Tanishq 👋
+# Hi there, I'm Tanishq 
 
-🎓 Student exploring **Data Science, Machine Learning, Deep Learning, and Big Data**
+ Student exploring **Data Science, Machine Learning, Deep Learning, and Big Data**
 
-💡 Passionate about understanding data and building intelligent systems.
+ Passionate about understanding data and building intelligent systems.
 
-📊 **Preacher for Big Data** — strongly believe data-driven systems will define the future.
-
----
-
-## 🧠 About Me
-
-* 📚 Currently focused on **Data Science and AI systems**
-* 🧩 Enjoy solving analytical and machine learning problems
-* 🚀 Working toward becoming an **AI Engineer**
-* ⚙️ Interested in how machines work — and more importantly, **how to make them learn**
+ **Preacher for Big Data** — strongly believe data-driven systems will define the future.
 
 ---
 
-## ⚡ Skills & Tools
+##  About Me
+
+*  Currently focused on **Data Science and AI systems**
+*  Enjoy solving analytical and machine learning problems
+*  Working toward becoming an **AI Engineer**
+*  Interested in how machines work — and more importantly, **how to make them learn**
+
+---
+
+##  Skills & Tools
 
 **Languages**
 
@@ -43,43 +43,32 @@
 
 ---
 
-## 🎯 Hobbies
+##  Hobbies
 
-⚽ Football
-🤖 Learning about machines
-🧠 Making the machines learn (yes… exactly what it sounds like 😙)
+Football
+Learning about machines
+Making the machines learn (yes… exactly what it sounds like 😙)
 
 ---
 
 ## 📬 Connect With Me
 
-📧 Email: [tanishqverma4444@gmail.com](mailto:tanishqverma4444@gmail.com)
-
-📸 Instagram:
-https://instagram.com/tanishqvermaa.19
-
-
-💼 LinkedIn:
-https://www.linkedin.com/in/tanishq-verma-been-vibing/
-
----
-
-## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<a href="mailto:tanishqverma4444@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanishq-verma-been-vibing/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/tanishqvermaa.19
+/">
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishq-ds&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-ds&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
----
 
 ⭐ *Building projects, learning constantly, and moving step-by-step toward AI engineering.*

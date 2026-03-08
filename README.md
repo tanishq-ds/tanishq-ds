@@ -69,6 +69,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 
+
 <a href="https://instagram.com/tanishqvermaa.19/">
 <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>

@@ -62,8 +62,7 @@ Making the machines learn (yes… exactly what it sounds like 😙)
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/tanishqvermaa.19
-/">
+<a href="https://instagram.com/tanishqvermaa.19/">
 <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/>
 </a>
 </p>

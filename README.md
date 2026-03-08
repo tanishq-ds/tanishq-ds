@@ -66,9 +66,9 @@ https://www.linkedin.com/in/tanishq-verma-been-vibing/
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishq-ds\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishq-ds&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ds\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ds&layout=compact)
 
 ---
 

@@ -22,18 +22,22 @@
 **Languages**
 
 * Python
-* C
+* Java
+* SQL
 
 **Data Science & ML**
 
 * Data Analysis
+* Data Science
 * Machine Learning Fundamentals
+* Big Data foundations
 * Feature Engineering
 
 **Databases**
 
 * MySQL
 * SQLite
+* PostreSQL
 
 **Tools**
 

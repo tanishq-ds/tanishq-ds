@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/tanishq-verma-been-vibing/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/tanishq-verma-been-vibing?label=LinkedIn&logo=linkedin&style=for-the-badge&color=0077B5"/>
 </a>
 
 <a href="https://instagram.com/tanishqvermaa.19/">

@@ -4,7 +4,7 @@
 
  - Passionate about understanding data and building intelligent systems.
 
- - **Preacher for Big Data**, strongly believe data-driven systems will define the future.
+ - **Preacher for Big Data**, strongly believe data driven systems will define the future.
 
 ---
 

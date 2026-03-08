@@ -53,19 +53,22 @@ Making the machines learn (yes… exactly what it sounds like 😙)
 
 ## 📬 Connect With Me
 
-<p align="left">
-<a href="mailto:your-tanishqverma4444@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+<p align="center">
+
+<a href="mailto:tanishqverma4444@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanishq-verma-been-vibing/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/tanishqvermaa.19/">
-<img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
+
 
 
 

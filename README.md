@@ -45,9 +45,11 @@
 
 ##  Hobbies
 
-Football
-Learning about machines
-Making the machines learn (yes… exactly what it sounds like 😙)
+- Football
+  
+- Learning about machines
+
+- Making the machines learn (yes… exactly what it sounds like 😙)
 
 ---
 

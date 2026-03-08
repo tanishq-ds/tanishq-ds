@@ -1,10 +1,10 @@
 # Hi there, I'm Tanishq 
 
- Student exploring **Data Science, Machine Learning, Deep Learning, and Big Data**
+ - Student exploring **Data Science, Machine Learning, Deep Learning, and Big Data**
 
- Passionate about understanding data and building intelligent systems.
+ - Passionate about understanding data and building intelligent systems.
 
- **Preacher for Big Data** — strongly believe data-driven systems will define the future.
+ - **Preacher for Big Data**, strongly believe data-driven systems will define the future.
 
 ---
 
@@ -13,7 +13,7 @@
 *  Currently focused on **Data Science and AI systems**
 *  Enjoy solving analytical and machine learning problems
 *  Working toward becoming an **AI Engineer**
-*  Interested in how machines work — and more importantly, **how to make them learn**
+*  Interested in how machines work, ohh and more importantly, **how to make them learn**
 
 ---
 

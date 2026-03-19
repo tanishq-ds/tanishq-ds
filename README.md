@@ -107,8 +107,8 @@ class Tanishq:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tanishqverma4444@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tanishq-verma)
-[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/tanishq_verma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tanishq-verma-been-vibing/)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tanishqvermaa.19)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/tanishq-ds)
 
 <br/>
